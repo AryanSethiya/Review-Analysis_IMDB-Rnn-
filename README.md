@@ -35,37 +35,24 @@ source venv/bin/activate  # On Mac/Linux
 venv\Scripts\activate     # On Windows
 ```
 Install dependencies:  
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## 🏃 Usage  
 Run the Streamlit app:  
-\`\`\`bash
+```bash
 streamlit run main.py
-\`\`\`
+```
 Enter a movie review, and the model will predict whether it's **positive** or **negative**!  
 
 ## 📊 Model Training  
 Train the RNN model by running:  
-\`\`\`bash
+```bash
 python model.py
-\`\`\`
+```
 
-## 🔧 Troubleshooting  
-- If TensorFlow is not found:  
-  \`\`\`bash
-  pip install tensorflow
-  \`\`\`
-- If Streamlit is missing:  
-  \`\`\`bash
-  pip install streamlit
-  \`\`\`
-- If virtual environment issues occur, deactivate and reactivate:  
-  \`\`\`bash
-  deactivate  # On Mac/Linux
-  venv\Scripts\deactivate  # On Windows
-  \`\`\`
+
 
 ## 🛠️ Technologies Used  
 - **Python**  
@@ -78,4 +65,4 @@ This project is **MIT Licensed** – feel free to modify and distribute!
 
 ---
 Made with ❤️ by [Aryan Sethiya](https://github.com/AryanSethiya)  
-" > README.md
+
