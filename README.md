@@ -22,10 +22,10 @@ This project implements a **Recurrent Neural Network (RNN)** for **sentiment ana
 
 ## ⚙️ Installation  
 Clone the repository:  
-\`\`\`bash
+'''bash
 git clone https://github.com/AryanSethiya/Review-Analysis_IMDB-Rnn-.git
 cd Review-Analysis_IMDB-Rnn-
-\`\`\`
+'''
 Create and activate a virtual environment:  
 \`\`\`bash
 python -m venv venv
