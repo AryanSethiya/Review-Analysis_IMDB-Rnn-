@@ -3,6 +3,8 @@
 ## 📌 Project Overview  
 This project implements a **Recurrent Neural Network (RNN)** for **sentiment analysis** on IMDB movie reviews. Using **TensorFlow/Keras**, the model classifies movie reviews as **positive** or **negative** based on textual data.  
 
+## Live Hosted Link : https://i9lsaooy2lptbxftekcagq.streamlit.app/
+
 ## 🚀 Features  
 - **Preprocessing of text data**: Tokenization, padding, and embedding.  
 - **Deep Learning Model**: Implemented using **SimpleRNN**, with LSTM/GRU variations possible.  
