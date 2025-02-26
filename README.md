@@ -1,4 +1,4 @@
-echo "# 🎬 Review Analysis IMDB - RNN  
+# 🎬 Review Analysis IMDB - RNN  
 
 ## 📌 Project Overview  
 This project implements a **Recurrent Neural Network (RNN)** for **sentiment analysis** on IMDB movie reviews. Using **TensorFlow/Keras**, the model classifies movie reviews as **positive** or **negative** based on textual data.  
